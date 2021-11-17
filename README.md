@@ -1,6 +1,6 @@
 <h1> Projeto Dados</h1>
 <br>
-Projeto onde o intuito era apertar botão e quando apertasse mostrasse numero que caiu no dados, quis adicionar algo mais minha cara e coloquei humores dependendo dos dados com imagens de anime.
+Projeto onde o intuito era apertar botão e quando apertasse mostrasse numero que caiu no dados, quis adicionar algo mais minha cara e coloquei humores dependendo dos dados com imagens de anime. (nas imagens não tem a mudança depois da retirada das ActionBar)
 <br>
 <br>
 <br>
